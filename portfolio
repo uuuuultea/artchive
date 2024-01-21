@@ -1,0 +1,42 @@
+<!DOCTYPE HTML>
+<html>
+<head> 
+	<title>Caitlyn Nicole "Tea" Guzman</title>
+	<link href=" /css/style.css" rel="stylesheet">
+	<link href="https://fonts.googleapis.com/css2?family=Robot
+o&display=swap" rel="stylesheet">
+</head>
+<body> 
+	<header>
+		<center>
+			<h1>Tea's Archive</h1>
+		<nav>
+		<a href="index.html">Home</a>
+		<a href="about.html">About</a>
+		<a href="index html">Contact</a>
+		</nav>
+		</center>
+	</header>
+<main>
+	<center>
+		<table width="600">
+			<tr>
+				<td><h2>The Best Design</h2></td>
+				<td><h2>Best Girl 1</h2></td>
+				<td><h2>Best Girl 2</h2></td>
+			</tr>
+			<tr>
+				<td><img src="img\annie.png" width="400"></td>
+				<td><img src="img\marianne.png" width="400"></td>
+				<td><img src="img\hilda.png" width="400"></td>
+			</tr>
+			<tr>
+        <td>The best design in Fire Emblem Three Hopes was Annette, made days prior to the release of the game.  </td>
+        <td>Marianne from Fire Emblem Three Houses, I thought she was pretty and wanted to make a follow up piece to Best Girl 2</td>
+        <td>Hilda from Fire Emblem Three Houses, I was bored one day and found her to be an easy challenge to start the day with. </td>
+      </tr>
+		</table>
+	</center>
+</main>
+  <footer><center> Copyright 2024 Caitlyn Guzman</center></footer> 
+</body>
